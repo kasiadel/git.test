@@ -1,1 +1,4 @@
-to jest zmiana na masterze
+
+
+to jest inny tekst 
+
